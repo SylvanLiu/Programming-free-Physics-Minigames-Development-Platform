@@ -4,6 +4,8 @@ In the field of computer games, light creative physics games are the most distin
 
 This project is based on the 'Processing' graphic library, and programmed in Java. For more information you can watch the display video.
 
-![Modules Planning(Simplified Chinese)](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P3.png)
+## Modules Planning(Simplified Chinese)
+![alt text](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P3.png)
 
-![Editions Planning(Simplified Chinese)](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P4.png)
+## Editions Planning(Simplified Chinese)
+![alt text](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P4.png)
