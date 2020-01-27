@@ -1,1 +1,3 @@
-
+In the field of computer games, light physics creative games are the most individual, such as the Flappy Bird, Fruit Ninja, and Angry Birds. Such games have very low development costs, but usually with high creativity and playability. If this characteristic can be effectively used, then it can create an extremely reasonable profit.
+Besides, it is an important thing to reduce the gap between people and technology. For solving this common demand, I proposed a set of solutions which can meet the needs of human-computer interaction.
+Using this technology demo, users can use every device they have, tablet, pad or mobile phone at any place to quickly express ideas for light physical games or directly make prototype products without entering any single line of code; the other part, it is the creative design aggregation and presentation platform. This platform can become the centre for our users to share ideas, exchange ideas, and release tasks.
