@@ -1,3 +1,5 @@
+# Interflowing创意设计聚合呈现平台
+
 In the field of computer games, light creative physics games are the most distinctive, such as the Flappy Bird, Fruit Ninja, and so on. Such games have very low development costs, but usually with significant creativity and playability. If this characteristic can be rationally used, then it can create an extremely reasonable profit.
 Hence, is there a possibility to implement people's ideas more efficiently. Besides, it is crucial to diminish the gap between people and technology -- not everyone has the programming ability to make ideas true.
 For solving this common demand, I proposed a set of solutions which can meet the needs of human-computer interaction.
