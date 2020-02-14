@@ -18,7 +18,8 @@ The project as a complete software ecosystem is divided into three following mod
 #### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(also platform), and others can play, social, clone, modify and pull requests just like people are doing here in GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
 
 #### Main interface:
-https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Main_interface_v2.0.jpg
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Main_interface_v2.0.jpg)
+
 
 ## Modules Planning(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
