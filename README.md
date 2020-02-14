@@ -20,6 +20,61 @@ The project as a complete software ecosystem is divided into three following mod
 #### Main interface:
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Main_interface_v2.0.jpg)
 
+#### The units have been implemented:
+
+1. set_ball
+2. set_bomb
+3. set_rectangle
+4. set_particle
+5. set_line
+6. set_fixed_dot
+7. set_rocker_controller
+8. set_paddle
+9. set_slingshot
+10. set_curve
+11. set_bridge
+
+#### The functions have been implemented:
+
+1. eraser_mode_on/off 
+2. select_object
+3. selected_object_follow_mouse_icon_on/off
+4. selected_object_horizontal_movement_only_on/off
+5. boundary_on/off
+6. gravitation_of_fixed_dot_on/off
+7. gravity_on/off
+8. elastic_property_on/off
+9. start/finish_record_operation
+10. add_logic
+11. pause/resume
+12. clear_cavans
+
+#### Demo_1: Particle movement under the gravitation between fixed pots.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Particle_gravatation.gif)
+
+#### Demo_2: Save the generated source code of the recorded operations.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
+
+#### Demo_3: Reproduce all previous operations by running the recorded code on Processing compiler. 
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Reproduce_project.gif)
+
+#### Demo_4: Run this platform fluently on every device of every operating system.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Cross_platform.gif)
+
+#### Game_Demo_5: Objects movement under the gravity and elastic property while boundary is on.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
+
+#### Game_Demo_1: The Bricks Ball Crusher.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_1.jpg)
+
+#### Game_Demo_2: Space mod.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
+
+#### Game_Demo_3: Maze game.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
+
+#### Game_Demo_4: The Angry Birds.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.jpg)
 
 ## Modules Planning(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
