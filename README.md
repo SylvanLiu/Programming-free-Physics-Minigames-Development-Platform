@@ -11,11 +11,14 @@ It is also crucial to diminish the gap between people and technology -- not ever
 
 The project as a complete software ecosystem is divided into three following modules:
 
-### First module: 'Cavans'(Done) --- by using it you can draw everything you want very conveniently, even the logical relationship.
+### First module: 'Cavans'(Done) --- 
+by using it you can draw everything you want very conveniently, even the logical relationship.
 
-### Second module: 'Code generator'(Done) --- by using it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
+### Second module: 'Code generator'(Done) --- 
+by using it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
 
-### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(also platform), and others can play, social, clone, modify and pull requests just like people are doing here in GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
+### Third module: 'Ideas Centre'(Undone) --- 
+by having it users can create and release their creative designs and projects at this website(also platform), and others can play, social, clone, modify and pull requests just like people are doing here in GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
 
 ### Main interface:
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Main_interface_v2.0.jpg)
