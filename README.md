@@ -1,7 +1,7 @@
 # Interflowing Physics Minigames Design and Display Platform
 ## Basically no further changes after July 2017
 
-This project is programmed in 'Processing', an open-source graphical library and integrated development environment built for visual design. 
+This project is programmed in 'Processing', an open-source graphical library and integrated development environment built for visual design. Was only for fun, but also won several national and provincial prizes.
 For more straightforward comprehension, you can download and watch the display video of this project: https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/display_video.mp4
 
 ### Design purpose
