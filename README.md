@@ -69,16 +69,16 @@ By having it users can create and release their creative designs and projects at
 
 
 
-## Game_Demo_1: The Bricks Ball Crusher.
+## Demo_6: Simple Bricks Ball Crusher.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_1.jpg)
 
-## Game_Demo_2: The Angry Birds.
+## Demo_7: Simple Angry Birds.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.jpg)
 
-## Game_Demo_3: Space mod. (In old interface style)
+## Demo_8: Simple space mod. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
 
-## Game_Demo_4: Maze game.
+## Demo_9: Simple maze game.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
 
 
