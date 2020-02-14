@@ -61,8 +61,20 @@ The project as a complete software ecosystem is divided into three following mod
 #### Demo_4: Run this platform fluently on every device of every operating system.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Cross_platform.gif)
 
+#### Game_Demo_5: Objects movement under the gravity and elastic property while boundary is on.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
+
 #### Game_Demo_1: The Bricks Ball Crusher.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_1.jpg)
+
+#### Game_Demo_2: Space mod.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
+
+#### Game_Demo_3: Maze game.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
+
+#### Game_Demo_4: The Angry Birds.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.jpg)
 
 ## Modules Planning(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
