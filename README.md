@@ -49,9 +49,11 @@ The project as a complete software ecosystem is divided into three following mod
 11. pause/resume
 12. clear_cavans
 
-#### Demo_1: Particle movement effect
+#### Demo_1: Particle movement under the gravitation between fixed pots.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Particle_gravatation.gif)
 
+#### Demo_2: Generate Processing code of the recorded content.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
 
 
 
