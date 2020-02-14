@@ -11,13 +11,9 @@ It is also crucial to diminish the gap between people and technology -- not ever
 #### First module: 'Cavans'(Done) --- by using it you can draw everything you want very conveniently, even the logical relationship.
 For solving this common demand, a set of solutions were proposed which can meet the needs of human-computer interaction. Using this technology demo, users can use no matter what device at no matter which places, and quickly express their ideas for physics minigames and directly export the reproducible prototype products without entering any single line of code. People can record their inspiration and ideas only like making pictures on the 'MSPaint', which is feasible for all ages.
 
-#### Second module: 'Code generator'(Done) --- by having it you can directly get the perfect code which has been implemented on bottom-level while you are drawing things on 'Cavans.'
+#### Second module: 'Code generator'(Done) --- by having it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
 
-Besides, it can generate source codes in 'Processing' simultaneously while drawing things on the canvas, which can be used by professionals for agile development.
-
-#### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their projects at this website(platform), and others can play, social, clone, modify and pull requests like people are doing here on the GitHub.
-It can also be the aggregation and presentation platform for creative designs, which allow users to share ideas, exchange ideas, organise and release tasks, or even make money by the clicks of advertisement which is attached to their project.
-
+#### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(platform), and others can play, social, clone, modify and pull requests like people are doing here on the GitHub. It allow users to share and exchange ideas, organise teamworks, or even make money by the clicks of advertisement which is attached to their project.
 
 ## Modules Planning(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P3.png)
