@@ -11,16 +11,16 @@ It is also crucial to diminish the gap between people and technology -- not ever
 
 The project as a complete software ecosystem is divided into three following modules:
 
-#### First module: 'Cavans'(Done) --- by using it you can draw everything you want very conveniently, even the logical relationship.
+### First module: 'Cavans'(Done) --- by using it you can draw everything you want very conveniently, even the logical relationship.
 
-#### Second module: 'Code generator'(Done) --- by using it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
+### Second module: 'Code generator'(Done) --- by using it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
 
-#### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(also platform), and others can play, social, clone, modify and pull requests just like people are doing here in GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
+### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(also platform), and others can play, social, clone, modify and pull requests just like people are doing here in GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
 
-#### Main interface:
+### Main interface:
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Main_interface_v2.0.jpg)
 
-#### The units have been implemented:
+### The units have been implemented:
 
 1. set_ball
 2. set_bomb
@@ -34,7 +34,7 @@ The project as a complete software ecosystem is divided into three following mod
 10. set_curve
 11. set_bridge
 
-#### The functions have been implemented:
+### The functions have been implemented:
 
 1. eraser_mode_on/off 
 2. select_object
@@ -49,33 +49,33 @@ The project as a complete software ecosystem is divided into three following mod
 11. pause/resume
 12. clear_cavans
 
-#### Demo_1: Objects movement under the gravity and elastic property while boundary is on. (In old interface style)
+## Demo_1: Objects movement under the gravity and elastic property while boundary is on. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
 
-#### Demo_2: Particle movement under the gravitation between fixed pots.
+## Demo_2: Particle movement under the gravitation between fixed pots.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Particle_gravatation.gif)
 
-#### Demo_3: Save the generated source code of the recorded operations.
+## Demo_3: Save the generated source code of the recorded operations.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
 
-#### Demo_4: Reproduce all previous operations by running the recorded code on Processing compiler. 
+## Demo_4: Reproduce all previous operations by running the recorded code on Processing compiler. 
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Reproduce_project.gif)
 
-#### Demo_5: Run this platform fluently on every device of every operating system.
+## Demo_5: Run this platform fluently on every device of every operating system.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Cross_platform.gif)
 
 
 
-#### Game_Demo_1: The Bricks Ball Crusher.
+## Game_Demo_1: The Bricks Ball Crusher.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_1.jpg)
 
-#### Game_Demo_2: The Angry Birds.
+## Game_Demo_2: The Angry Birds.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.jpg)
 
-#### Game_Demo_3: Space mod. (In old interface style)
+## Game_Demo_3: Space mod. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
 
-#### Game_Demo_4: Maze game.
+## Game_Demo_4: Maze game.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
 
 
