@@ -2,7 +2,7 @@
 ## Basically no further changes after July 2017
 
 This project is programmed in 'Processing', an open-source graphical library and integrated development environment built for visual design. 
-For more straightforward information, you can download and watch the display video of this project: https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/display_video.mp4
+For more straightforward comprehension, you can download and watch the display video of this project: https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/display_video.mp4
 
 ### Design purpose
 In the field of computer games, light creative physics games are the most distinctive, like the Flappy Bird and Fruit Ninja. Such kind of games have very low development costs, but usually with significant creativity and playability. If this characteristic can be rationally used, then it can create an extremely reasonable profit. However, the flashpoints of people's favour are very hard to catch. Hence, is there a possibility to implement people's ideas more efficiently and smoothly, then dominated by the quantity of it?
