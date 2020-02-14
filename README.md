@@ -52,9 +52,14 @@ The project as a complete software ecosystem is divided into three following mod
 #### Demo_1: Particle movement under the gravitation between fixed pots.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Particle_gravatation.gif)
 
-#### Demo_2: Generate Processing code of the recorded content.
+#### Demo_2: Save the generated source code of the recorded operations.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
 
+#### Demo_3: Reproduce all previous operations by running the recorded code on Processing compiler. 
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Reproduce_project.gif)
+
+#### Demo_4: Run this platform fluently on every device of every operating system.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Cross_platform.gif)
 
 
 
