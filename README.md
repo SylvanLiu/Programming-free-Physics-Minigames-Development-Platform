@@ -12,7 +12,7 @@ It is also crucial to diminish the gap between people and technology -- not ever
 
 #### Second module: 'Code generator'(Done) --- by using it you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
 
-#### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(platform), and others can play, social, clone, modify and pull requests like people are doing here on the GitHub. It allow users to share and exchange ideas, organise teamworks, or even make money by the clicks of advertisement which is attached to their project.
+#### Third module: 'Ideas Centre'(Undone) --- by having it users can create and release their creative designs and projects at this website(platform), and others can play, social, clone, modify and pull requests like people are doing here on the GitHub. It also allows users to share and exchange ideas, organise teamwork, or even make money by the clicks of advertisement which is attached to their project.
 
 ## Modules Planning(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/InterflowingPlatform/blob/master/P3.png)
