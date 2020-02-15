@@ -43,7 +43,7 @@ By having it users can create and release their creative designs and projects at
 3. selected_object_follow_mouse_icon_on/off
 4. selected_object_horizontal_movement_only_on/off
 5. boundary_on/off
-6. gravitation_of_fixed_dot_on/off
+6. attravction_of_fixed_dot_on/off
 7. gravity_on/off
 8. elastic_property_on/off
 9. start/finish_record_operation
