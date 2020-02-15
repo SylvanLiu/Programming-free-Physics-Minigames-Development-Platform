@@ -83,7 +83,7 @@ By having it users can create and release their creative designs and projects at
 
 
 
-## Modules Planning(Simplified Chinese)
+## Modules Setting(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
 
 ## Editions Planning(Simplified Chinese)
