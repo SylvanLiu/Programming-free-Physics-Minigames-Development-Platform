@@ -65,7 +65,7 @@ By having it users can create and release their creative designs and projects at
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
 
 ## Game_Demo_3: Simple space mod. (In old interface style)
-![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.gif)
 
 ## Game_Demo_4: Simple maze game. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
