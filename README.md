@@ -55,13 +55,13 @@ By having it users can create and release their creative designs and projects at
 ## Function_Demo_1: Run this platform fluently on every device of every operating system.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Cross_platform.gif)
 
-## Function_Demo_2: Particle movement under the gravitation between fixed pots, then save the generated source code of the recorded previous operations, finally reproduce all previous operations by running the recorded code on Processing compiler. 
+## Function_Demo_2: Record operations, export the generated source code, reproduce it by running on compiler. 
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
 
-## Game_Demo_1: Simple Bricks Ball Crusher.
+## Game_Demo_1: Simple reproduction of Bricks Ball Crusher.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_1.gif)
 
-## Game_Demo_2: Simple Angry Birds.
+## Game_Demo_2: Simple reproduction of Angry Birds.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
 
 ## Game_Demo_3: Simple space mod. (In old interface style)
