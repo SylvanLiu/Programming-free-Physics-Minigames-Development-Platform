@@ -14,7 +14,7 @@ The project as a complete software ecosystem is divided into three following mod
 ### First module: 'Cavans'(Done)
 By using it, you can draw everything you want very conveniently, even the logical relationship.
 
-### Second module: 'Code generator'(Done) 
+### Second module: 'Code Generator'(Done) 
 By using it, you can directly get the industrial-level code which has been implemented while you are drawing things on 'Cavans', and can be used by professionals for agile development
 
 ### Third module: 'Ideas Centre'(Undone)
