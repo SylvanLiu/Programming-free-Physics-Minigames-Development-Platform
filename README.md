@@ -5,8 +5,7 @@ This project is programmed in 'Processing', which is an open-source graphical li
 
 It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which have been shown in this repository, as weel as the projects presentation and management platform is an undone second part, and the source code of this part got lost.
 
-For more straightforward comprehension, you can download and watch the display video of this project: https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/display_video.mp4
-
+For more straightforward comprehension, you can download and watch the [display video of this project.](display_video.mp4)
 ### Design purpose
 In the field of computer games, light creative physics games are the most distinctive, like the Flappy Bird and Fruit Ninja. Such kind of games have very low development costs, but usually with significant creativity and playability. If this characteristic can be rationally used, then it can create an extremely reasonable profit. However, the flashpoints of people's favour are very hard to catch. Hence, is there a possibility to implement people's ideas more efficiently and smoothly, then dominated by the quantity of it?
 
