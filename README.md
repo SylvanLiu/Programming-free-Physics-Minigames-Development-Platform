@@ -1,9 +1,9 @@
 # Interflowing Physics Minigames Design and Display Platform
 ## Basically no further changes after July 2017
 
-This project is programmed in 'Processing', which is an open-source graphical library and integrated development environment built for visual design. It was only for fun, but also has won several national and provincial prizes. Besides I tried to commercializse it(also for fun) but not succeeded xD. 
+This project is programmed in 'Processing', which is an open-source graphical library and integrated development environment built for visual design. It was only for fun, but also has won several national and provincial prizes. Besides I tried to commercialise it(also for fun) but not succeeded xD. 
 
-It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which have been shown in this repository, as weel as the projects presentation and management platform is an undone second part, and the source code of this part got lost.
+It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which have been shown in this repository, as well as the projects presentation and management platform is an undone second part, and the source code of this part got lost.
 
 For more straightforward comprehension, you can [download and watch the display video of this project.](display_video.mp4)
 ### Design purpose
@@ -47,7 +47,7 @@ By having it users can create and release their creative designs and projects at
 7. gravity_on/off
 8. elastic_property_on/off
 9. start/finish_record_operation
-10. add_logic
+10. add_logic(add_trigger)
 11. pause/resume
 12. clear_cavans
 
