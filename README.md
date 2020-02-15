@@ -3,7 +3,7 @@
 
 This project is programmed in 'Processing', which is an open-source graphical library and integrated development environment built for visual design. It was only for fun, but also has won several national and provincial prizes. Besides I tried to commercialise it(also for fun) but not succeeded xD. 
 
-It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which have been shown in this repository, as well as the projects presentation and management platform is an undone second part, and the source code of this part got lost.
+It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which has been shown in this repository, as well as the projects presentation and management platform.
 
 For more straightforward comprehension, you can [download and watch the display video of this project.](display_video.mp4)
 ### Design purpose
