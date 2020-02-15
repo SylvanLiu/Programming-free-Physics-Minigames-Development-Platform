@@ -70,10 +70,6 @@ By having it users can create and release their creative designs and projects at
 ## Game_Demo_4: Simple maze game. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
 
-
-
-
-
 ## Modules Setting(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
 
