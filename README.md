@@ -58,20 +58,21 @@ By having it users can create and release their creative designs and projects at
 ## Function_Demo_2: Particle movement under the gravitation between fixed pots + Save the generated source code of the recorded previous operations + Reproduce all previous operations by running the recorded code on Processing compiler. 
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Code_generator.gif)
 
-## Function_Demo_5: Objects movement under the gravity and elastic property while the boundary is on. (In old interface style)
+## Game_Demo_1: Simple Bricks Ball Crusher.
+![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_1.gif)
+
+## Game_Demo_2: Simple Angry Birds.
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_4.gif)
 
-## Game_Demo_1: Simple space mod. (In old interface style)
+## Game_Demo_3: Simple space mod. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_2.gif)
 
-## Game_Demo_2: Simple maze game. (In old interface style)
+## Game_Demo_4: Simple maze game. (In old interface style)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_3.gif)
 
-## Game_Demo_3: Simple Bricks Ball Crusher.
-![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/Game_demo_1.jpg)
 
-## Game_Demo_4: Simple Angry Birds.
-![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/game_demo_5.jpg)
+
+
 
 ## Modules Setting(Simplified Chinese)
 ![alt text](https://github.com/SylvanLiu/PhysicsMinigamesDesignPlatform/blob/master/Display/P3.png)
