@@ -2,7 +2,7 @@
 ## Basically no further changes after July 2017
 
 Runtime Environment: 
-1. Use Processing 
+1. Use Processing3
 2. JRE 1.7.0_40 
 3. Under the relatively root path of "Interflowing" 
 4. Install in-app library by: Sketch->Import Library->Add Library->Libraries->Box2D for Processing | Daniel Shiffman.
