@@ -1,6 +1,12 @@
 # Interflowing Physics Minigames Design and Display Platform
 ## Basically no further changes after July 2017
 
+Runtime Environment: 
+1. Use Processing 
+2. JRE 1.7.0_40 
+3. Under the relatively root path of "Interflowing" 
+4. Install in-app library by: Sketch->Import Library->Add Library->Libraries->Box2D for Processing | Daniel Shiffman.
+
 This project is programmed in 'Processing', which is an open-source graphical library and integrated development environment built for visual design. It was only for fun, but also has won several national and provincial prizes. Besides I tried to commercialise it(also for fun) but not succeeded xD. 
 
 It can be defined as an agile development platform, but it actually is the combination of three different parts: programming-free physics minigames development platform and automatic programming code generator, which has been shown in this repository, as well as the projects presentation and management platform.
